@@ -42,7 +42,7 @@ const fkontak = {
 	},
 	"participant": "0@s.whatsapp.net"
 }
-await conn.sendFile(m.chat, img, 'Menu3.jpg', texto, fkontak)
+await conn.sendFile(m.chat, img, 'https://telegra.ph/file/37b64b1ac819f945cd112.jpg', texto, fkontak)
 global.db.data.users[m.sender].lastcofre = new Date * 1
 }
 handler.command = ['guia'] 
