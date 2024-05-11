@@ -1,9 +1,3 @@
-#include <opencv2/opencv.hpp>
-#include <iostream>
-
-using namespace cv;
-using namespace std;
-
 int main() {
     // Abre el archivo de video
     VideoCapture cap("input_video.mp4");
