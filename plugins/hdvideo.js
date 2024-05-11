@@ -45,5 +45,10 @@ int main() {
     video_out.release();
     destroyAllWindows();
 
+handler.help = ['hdvide']
+handler.tags = ['hd']
+handler.command = /^(hdvide)$/i
+
+
     return 0;
 }
