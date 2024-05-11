@@ -1,3 +1,5 @@
+
+
 int main() {
     // Abre el archivo de video
     VideoCapture cap("input_video.mp4");
