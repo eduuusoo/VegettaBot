@@ -46,7 +46,7 @@ int main() {
     destroyAllWindows();
 
 handler.help = ['hdvide']
-handler.tags = ['hd']
+handler.tags = ['ai']
 handler.command = /^(hdvide)$/i
 
 
