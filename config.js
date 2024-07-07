@@ -115,7 +115,7 @@ global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whas
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
 global.packname = "𝑽𝑬𝑮𝑬𝑻𝑻𝑨 𝑩𝑶𝑻";
-global.author = "@Yeray";
+global.author = "@𝑽𝑬𝑮𝑬𝑻𝑻𝑨";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
